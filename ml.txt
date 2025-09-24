@@ -1,0 +1,1 @@
+java -javaagent:D:\demo\agent.jar -Dxmiast.ip=192.168.172.30 -Dxmiast.port=9290 -Dxmiast.token=pmuWVitxsXdGnrtyS4nOyS90iz1vaL5QE8fPanQb6AxgRgY -Dxmiast.nodename=javaseccode -Dxmiast.projectname=javaseccode -Dxmiast.mode=passive -Dxmiast.app_version=123 -Dxmiast.region= -Dxmiast.accuracy=mid  -Dxmiast.writeconfig=false -Dxmiast.cache=false
